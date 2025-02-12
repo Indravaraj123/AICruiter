@@ -1,3 +1,63 @@
+AI Ignite: From Basics to Breakthrough
+
+Overview
+
+AI Ignite is an AI-powered resume screening tool designed to help candidates assess their job suitability before applying. By leveraging AI and automation, it streamlines the initial hiring process, providing feedback and interview scheduling.
+
+Problem Statement
+
+Modern hiring processes rely on AI-based resume screening, often leaving candidates uncertain about their job eligibility. Key issues include:
+
+Lack of Feedback: Candidates apply without knowing their suitability.
+
+Emotional Impact of Rejections: Repeated failures lower confidence.
+
+Limited Access to Screening Tools: No accessible pre-screening resources for candidates.
+
+Solution: AIcruiter
+
+AIcruiter automates the resume screening process using AI to provide candidates with feedback and interview scheduling. It:
+
+Analyzes resumes and job descriptions to determine suitability.
+
+Provides automated feedback via email.
+
+Schedules interviews using Google Calendar if suitable.
+
+Features
+
+Automated Suitability Check: AI compares resumes with job descriptions to determine eligibility.
+
+Personalized Feedback: Candidates receive tailored responses based on AI analysis.
+
+Google Integration: Uses Gmail for communication and Google Calendar for interview scheduling.
+
+Workflow
+
+Upload Resume & Job Description: Users submit documents for assessment.
+
+Text Extraction: AI converts PDFs into readable text.
+
+AI Analysis: Determines match suitability.
+
+Communication:
+
+Sends rejection email if unsuitable.
+
+Schedules interview via Google Calendar if suitable.
+
+Key Functions
+
+Google Authentication: Grants access to Gmail and Calendar.
+
+Resume & Job Description Processing: Extracts text from PDFs.
+
+AI Suitability Assessment: Evaluates job fit using AI models.
+
+Automated Email Updates: Notifies candidates of results.
+
+Interview Scheduling: Sets up Google Calendar events with meeting links.
+
 Packages Required
 
 Python 3.x
